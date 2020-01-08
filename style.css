@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.photo1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 10px;
+}
